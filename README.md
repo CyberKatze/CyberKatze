@@ -1,6 +1,5 @@
-<div align="center" style="">
-<img src="img/ck.gif" width="150px" style="border-radius:50%;">
-<div style="color:#08F6F8;font-size:2rem;font-style:italic;text-shadow: 0px 2px 0px #10b9f9,0px 14px 10px rgba(0,0,0,0.15),0px 24px 2px rgba(0,0,0,0.1),0px 24px 30px rgba(0,0,0,0.1);"> CyberKatze </div>
+<div align="center" >
+<img src="img/ck.gif" width="150" style="border-radius:50%;">
 </div>
 
 ## Hi there, I'm MohammadMehrdad Shahidi 
@@ -22,10 +21,10 @@
    - 📡 Networking
    - 🛡️ Security
 ### 🛠️ My Tools
-- OS: [🐧Arch Linux]()
-- IDE: [💜Neovim]()
-- Shell:[🐟Fish]()
-- WM: [🌴Sway]()
+- OS: [🐧Arch Linux](https://archlinux.org/)
+- IDE: [💜Neovim](https://neovim.io/)
+- Shell:[🐟Fish](https://fishshell.com/)
+- WM: [🌴Sway](https://swaywm.org/)
 - PKM: [🪨Obsidian](https://obsidian.md/)
 - Dotfiles:  [![](https://img.shields.io/badge/Dotfiles-0D1117?logo=github&logoColor=white)](https://github.com/cyberkatze/dotfiles)
 
