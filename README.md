@@ -66,15 +66,15 @@
    - [x] Using [Arch Linux](https://archlinux.org/) as a distro
    - [x] Using Wayland for display server [learn more here](https://linuxiac.com/xorg-x11-wayland-linux-display-servers-and-protocols-explained/)
    - [x] Using [sway](https://swaywm.org/) for window manager
-   - [ ] Automate the whole process of installation and configuration
-   - [ ] Add capability to sync my current OS with arch ISO file in order to pre-install all the necessary packages
+   - [ ] Automating the whole process of installation and configuration
+   - [ ] Adding capability to sync my current OS with arch ISO file in order to pre-install all the necessary packages
 2. Create my ultimate Personal Knowledge Management System (PKMS)
    - You can learn more about this one [here](https://github.com/CyberKatze/obsidian-cyberkatze)
 3. Building my personal website and blog 
-   - [ ] Design the website
-   - [ ] Create it by using [Svelte](https://svelte.dev/)
-   - [ ] Use markdown language for making blogs
-   - [ ] Make an effective CI/CD pipeline
+   - [ ] Designing the website
+   - [ ] using [Svelte](https://svelte.dev/) to create it
+   - [ ] Using markdown language for making blogs
+   - [ ] Making an effective CI/CD pipeline
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberkatze&label=Profile%20views&color=0e75b6&style=flat" alt="cyberkatze" /> </p>
 
