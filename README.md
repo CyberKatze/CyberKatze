@@ -8,12 +8,12 @@
 [![Twitter: CyberKatzee](https://img.shields.io/badge/cyberkatzee-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cyberkatzee)
 ### 📫 How to reach me
    - This is my email 👉 [m.mehrdadshahidi@gmail.com](mailto:m.mehrdadshahidi@gmail.com)
-   - Or you can send me message directly on [Linkedin](https://www.linkedin.com/in/mehrdad-shahidi/) or [Discord](https://discordapp.com/users/599192629015609364/) 
+   - Or you can send me a message directly on [Linkedin](https://www.linkedin.com/in/mehrdad-shahidi/) or [Discord](https://discordapp.com/users/599192629015609364/) 
    - My twin brother [m3hransh](https://github.com/m3hransh)
-### 🌱 I’m currently learning
+### 🌱What I’m currently learning
   1. Mastering my Linux related skills
-  2. Mastering [Golang programming](https://go.dev/) and write decent codes
-  3. Delving deeper in DevOps and learning about new tools
+  2. Mastering [Golang programming](https://go.dev/) and writing decent codes
+  3. Delving deeper into DevOps and learning about new tools
   4. Taking more courses on networking and security
 ### 💬 Ask me about
    - 🖥️ Linux 
@@ -61,18 +61,18 @@
 - Persian (Native)
 - English (C1)
 - German (A2)
-### 🔭 I’m currently working on
+### 🔭What I’m currently working on
 1. Building my highly customized operating system
    - [x] Using [Arch Linux](https://archlinux.org/) as a distro
    - [x] Using Wayland for display server [learn more here](https://linuxiac.com/xorg-x11-wayland-linux-display-servers-and-protocols-explained/)
    - [x] Using [sway](https://swaywm.org/) for window manager
    - [ ] Automating the whole process of installation and configuration
-   - [ ] Adding capability to sync my current OS with arch ISO file in order to pre-install all the necessary packages
-2. Create my ultimate Personal Knowledge Management System (PKMS)
+   - [ ] Adding the capability to sync my current OS with arch ISO file in order to pre-install all the necessary packages
+2. Creating my ultimate Personal Knowledge Management System (PKMS)
    - You can learn more about this one [here](https://github.com/CyberKatze/obsidian-cyberkatze)
 3. Building my personal website and blog 
    - [ ] Designing the website
-   - [ ] using [Svelte](https://svelte.dev/) to create it
+   - [ ] Using [Svelte](https://svelte.dev/) to create it
    - [ ] Using markdown language for making blogs
    - [ ] Making an effective CI/CD pipeline
 ---
