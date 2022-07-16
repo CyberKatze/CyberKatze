@@ -3,7 +3,7 @@
 </div>
 
 ## Hi there, I'm MohammadMehrdad Shahidi 
-[![](https://dcbadge.vercel.app/api/shield/599192629015609364)](https://discordapp.com/users/599192629015609364)
+[![](https://dcbadge.vercel.app/api/shield/599192629015609364)](https://discordapp.com/users/997729132127457400)
 [![Linkedin: Mehrdad Shahidi](https://img.shields.io/badge/Mehrdad%20Shahidi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehrdad-shahidi/)
 [![Twitter: CyberKatzee](https://img.shields.io/badge/cyberkatzee-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cyberkatzee)
 ### 📫 How to reach me
