@@ -8,18 +8,15 @@
 [![Twitter: CyberKatzee](https://img.shields.io/badge/cyberkatzee-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cyberkatzee)
 ### 📫 How to reach me
    - This is my email 👉 [m.mehrdadshahidi@gmail.com](mailto:m.mehrdadshahidi@gmail.com)
-   - Or you can send me a message directly on [Linkedin](https://www.linkedin.com/in/mehrdad-shahidi/) or [Discord](https://discordapp.com/users/599192629015609364/) 
+   - Or you can send me a message directly on [Linkedin](https://www.linkedin.com/in/mehrdad-shahidi/) or [Discord](https://discordapp.com/users/997729132127457400/) 
    - My twin brother [m3hransh](https://github.com/m3hransh)
 ### 🌱What I’m currently learning
   1. Mastering my Linux related skills
   2. Mastering [Golang programming](https://go.dev/) and writing decent codes
-  3. Delving deeper into DevOps and learning about new tools
-  4. Taking more courses on networking and security
+
 ### 💬 Ask me about
    - 🖥️ Linux 
-   - 🔧 DevOps
-   - 📡 Networking
-   - 🛡️ Security
+ 
 ### 🛠️ My Tools
 - OS: [🐧Arch Linux](https://archlinux.org/)
 - IDE: [💜Neovim](https://neovim.io/)
@@ -60,14 +57,14 @@
 ### 🗣️ Human Languages
 - Persian (Native)
 - English (C1)
-- German (A2)
+- German (A1)
 ### 🔭What I’m currently working on
 1. Building my highly customized operating system
    - [x] Using [Arch Linux](https://archlinux.org/) as a distro
    - [x] Using Wayland for display server [learn more here](https://linuxiac.com/xorg-x11-wayland-linux-display-servers-and-protocols-explained/)
    - [x] Using [sway](https://swaywm.org/) for window manager
+   - [x] Making a live CD version
    - [ ] Automating the whole process of installation and configuration
-   - [ ] Adding the capability to sync my current OS with arch ISO file in order to pre-install all the necessary packages
 2. Creating my ultimate Personal Knowledge Management System (PKMS)
    - You can learn more about this one [here](https://github.com/CyberKatze/obsidian-cyberkatze)
 3. Building my personal website and blog 
