@@ -28,7 +28,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 
 
-![Cyberkatze's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberkatze&hide=javascript,jupyter%20notebook&langs_count=8&layout=compact&theme=radical)
+![Cyberkatze's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberkatze&hide=CSS,SCSS,jupyter%20notebook&langs_count=8&layout=compact&theme=radical)
 ### 🗣️ Human Languages
 - Persian (Native)
 - English (C1)
